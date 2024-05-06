@@ -19,7 +19,7 @@ export const app = new Frog({
 app.frame('/', (c) => {
   return c.res({
     image: (
-      <img src="https://tomato-geographical-pig-904.mypinata.cloud/ipfs/QmPCqYQv6C1MNWHCU2z6kK6keScEwerVz2jy6qFtTtyjMR/1.jpg"/>
+      <img src="https://tomato-geographical-pig-904.mypinata.cloud/ipfs/QmRifngre2mRi4tL9YkkUL4gDYV5KqqD1DfNiMd4Eis5Av"/>
     ),
     intents: [
       <Button action='/2'>Get started!</Button>
