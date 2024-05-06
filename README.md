@@ -1,2 +1,6 @@
-# framedl-explainer
-Frame repository for /framedl-pro game explainer on farcaster
+```
+npm install
+npm run dev
+```
+
+Head to http://localhost:5173/api
