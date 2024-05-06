@@ -22,7 +22,7 @@ app.frame('/', (c) => {
       <img src="https://tomato-geographical-pig-904.mypinata.cloud/ipfs/QmPCqYQv6C1MNWHCU2z6kK6keScEwerVz2jy6qFtTtyjMR/1.jpg"/>
     ),
     intents: [
-      <Button action='/2'>Get Started!!</Button>
+      <Button action='/2'>Get started!</Button>
     ],
   })
 })
