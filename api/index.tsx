@@ -71,7 +71,7 @@ app.frame('/5', (c)=> {
     intents : [
       <Button action='/4'> Back</Button>,
       <Button action='/'> Home</Button>,
-      <Button.Link href="https://warpcast.com/~/channel/framedl-pro">Play the game!</Button.Link>,
+      <Button action="https://pro.framedl.xyz">Play the game!</Button>,
       <Button.Link href="https://zora.co/collect/base:0x402ae0eb018c623b14ad61268b786edd4ad87c56/1">Pro Pass</Button.Link>
     ]
   })
